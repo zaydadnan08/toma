@@ -1,0 +1,254 @@
+[
+    {
+        "call_id": "call_44d1618006026ba673f7acd0304",
+        "dealershipName": "Dixie Toyota",
+        "dealershipPhone": "+19052386000",
+        "transcript": "Agent: \"Hello, is this \nAgent: Dixie \nUser: Thank you for calling Dixie Toyota. We are conveniently located in the Pearson Auto Mall. At the corner of Dixie and the 401. If you know the extension number of the person you are calling, please enter it now. For service, please press 1. For sales, please press 2. For parts, please press 3. For our address and for directions, please press 4. Thank you for calling Dixie Toyota.\nUser: are conveniently located in the Pearson Automall at the corner of Dixie and the 401. If you know the extension number of the person you are calling, please enter it now. For service, please press 1. For sales, please press 2. For parts, please press 3. For our address and for directions, please press 4.\nUser: Please wait a moment.\nAgent: \"Sure, I'll hold. Thank you!\"\nUser: Thank you for calling our service department. All of our agents are assisting other clients. Please stay on the line and someone will assist you shortly. A Dixie Toyota has the perfect vehicle to fit your lifestyle. Visit our showroom with our inventory and speak to a member of our sales Do you You can also learn more about Dixie Toyota and browse our complete inventory online at www. Toyota.com.\nAgent: \"Alright, I'll wait. Thank you!\"\nUser: Are experiencing a higher volume of calls. Please stay on the line, Press 1 to leave a message, or go to dixie toyota.com to book your service appointment online. You for choosing Dixie Toyota. Care that goes into their vehicles goes into helping you find the Toyota that's right for your lifestyle. It's time to Toyota. Just ask to one of our knowledgeable product advisers about incredible offers on their most Popular models.\nUser: We are experiencing a higher volume of calls. Please stay on the line, Press 1 to leave a message. Or go to dixie toyota.com to book your service appointment online.\nUser: You for choosing Dixie Toyota.\nAgent: It seems like the service department is currently unavailable to take calls. I'll try reaching out again \nUser: For \nAgent: later. \nUser: the best vehicle parts and service, look no further than Dixie Toyota. Our team of specialists can handle any service request from tire rotations to transmission repair. Plus, while you wait, Dixie Toyota offers complimentary We are experiencing a higher volume of calls. Please stay on the line Press 1 to leave a message. Or go to dixie toyota.com to book your service appointment online.\nUser: You for choosing Dixie Toyota.\nAgent: It seems the service department is experiencing high call volumes. I'll try reaching out again later. Thank you for your time!\n",
+        "call_analysis": {
+            "custom_analysis_data": {
+                "earliest_availability": "",
+                "cost_oil_change": 0,
+                "hold_time": 0,
+                "information_collected": false
+            },
+            "agent_task_completion_rating": "Incomplete",
+            "call_successful": false,
+            "in_voicemail": false,
+            "call_summary": "The user attempted to reach the service department at Dixie Toyota but encountered high call volumes and was unable to connect with an agent. The agent decided to try calling back later due to the unavailability of service representatives.",
+            "user_sentiment": "Neutral",
+            "call_completion_rating": "Incomplete"
+        },
+        "picked_up": false
+    },
+    {
+        "call_id": "call_9d19ae509d73107839f1b207bbd",
+        "dealershipName": "Erin Park Toyota",
+        "dealershipPhone": "+19058287711",
+        "transcript": "Agent: Hi, is \nUser: Thank \nAgent: this Erin \nUser: you for calling Aaron Park Toyota.\nUser: For quality assurance, your call may be recorded.\nAgent: Hi, I’d like to get some information about an oil change for my 2018 Corolla. Could you connect me to the service department, please?\nUser: Thank you for calling Aaron Park. My name is Dominique. How can I help you?\nAgent: Hi Dominique, I’d like to get some information about an oil change for my 2018 Corolla. Could you tell me the cost and the earliest available appointment?\nUser: Yeah. Just one moment. It ever been to Aaron Park?\nAgent: No, it hasn’t been to Aaron Park before.\nUser: Okay. What's the year of the said it's a Corolla?\nAgent: It’s a 2018 Corolla.\nUser: Okay.\nAgent: Thank \nUser: So \nAgent: you! Could you let \nUser: the oil change is a 100 it's $100 plus tax. If you're looking to wait during the appointment, my next availability would be Monday afternoon.\nAgent: Thank you so much for the information, Dominique. I’ll check my schedule and give you a call back to book the appointment. Have a great day!\n",
+        "call_analysis": {
+            "custom_analysis_data": {
+                "earliest_availability": "Monday afternoon",
+                "cost_oil_change": 100,
+                "hold_time": 0,
+                "information_collected": true
+            },
+            "agent_task_completion_rating": "Complete",
+            "call_successful": true,
+            "in_voicemail": false,
+            "call_summary": "The user called to inquire about the cost and availability for an oil change for their 2018 Corolla. The agent provided the cost of $100 plus tax and mentioned that the earliest availability for an appointment is Monday afternoon. The user thanked the agent and indicated they would call back to book the appointment.",
+            "user_sentiment": "Positive",
+            "call_completion_rating": "Complete"
+        },
+        "picked_up": true
+    },
+    {
+        "call_id": "call_a5708e6af308575a7c2eca9b6c0",
+        "dealershipName": "Missisauga Toyota",
+        "dealershipPhone": "+19056253420",
+        "transcript": "Agent: Hi, is \nAgent: this \nUser: Thank you for calling Mississauga Toyota. Your call may be recorded for quality assurance. We are conveniently located at 2215 Dundas Street East. Just west of Highway 427. If you know the extension of the person you are calling, please enter it now.\nUser: To dial using our company directory, please press the pound key. For sales, press 1. For service, press 2. For parts, press 3. For our address, fax, and how to find us online, press 7. To repeat this message, please press 8.\nUser: Thank you for calling Mississauga Toyota. Service department.\nUser: Your \nAgent: Hi, I’d \nUser: call may be recorded for quality assurance.\nUser: To speak to the next available service adviser, press 1. Or if you know the extension of the service adviser you wish to speak with, please dial it now.\nUser: To repeat this message, press 7. And to return to the main menu, please press 8.\nUser: Miss Sargad, if you could please hold for one second. Thank you.\nAgent: Sure, no problem. I'll hold.\nAgent: Hello, just checking if someone is available to assist me?\nUser: Lazarco service department. Delaria speaking. How can I help you today?\nAgent: Hi \nUser: Hello?\nAgent: Delaria, I’d like to get some \nAgent: Hi Delaria, I’d like to get some information about an oil change for my 2012 Corolla. Could you tell me the cost and the earliest available appointment?\nUser: 2012 Acura?\nAgent: Oh, sorry about that! It's a 2012 Toyota Corolla. Could you let me know the cost and the earliest available appointment for an oil change?\nUser: Chevrolet's appointment tomorrow. Okay, at 12:30. Okay. And the cost, it's $84 plus tax and the environmental fees.\nAgent: Thank you so much for the information, Delaria. I’ll book the appointment for tomorrow at 12:30. Have a great day!\n",
+        "call_analysis": {
+            "custom_analysis_data": {
+                "earliest_availability": "Tomorrow at 12:30",
+                "cost_oil_change": 84,
+                "hold_time": 0,
+                "information_collected": true
+            },
+            "agent_task_completion_rating": "Complete",
+            "call_successful": true,
+            "in_voicemail": false,
+            "call_summary": "The user called the Mississauga Toyota service department to inquire about the cost and earliest availability for an oil change for their 2012 Toyota Corolla. The agent provided the cost of $84 plus tax and environmental fees, and confirmed an appointment for the following day at 12:30.",
+            "user_sentiment": "Positive",
+            "call_completion_rating": "Complete"
+        },
+        "picked_up": true
+    },
+    {
+        "call_id": "call_02ad003e6f8d588efbb9b358add",
+        "dealershipName": "Missisauga Toyota",
+        "dealershipPhone": "+19056253420",
+        "transcript": "Agent: \"Hello, is \nAgent: this \nUser: Thank you for calling Mississauga Toyota. Your call may be recorded for quality assurance. We are conveniently located at 2215 Dundas Street East, just west of Highway 427. If you know the extension of the person you are calling, please enter it now.\nUser: To dial using our company directory, please press the pound key.\nUser: For sales, press 1. For service, press 2. For parts, press 3. For our address, fax, and how to find us online, press 7. To repeat this message, please press 8.\nUser: Thank you for calling Mississauga Toyota service department.\nUser: Your call may be recorded for quality assurance.\nAgent: \"Hi! I’m \nUser: To speak to the next available service adviser, press 1. Or if you know the extension of the service adviser you wish to speak with, please dial it now.\nUser: To repeat this message, press 7. And to return to the main menu, please press 8.\n",
+        "call_analysis": {
+            "custom_analysis_data": {
+                "earliest_availability": "",
+                "cost_oil_change": 0,
+                "hold_time": 0,
+                "information_collected": false
+            },
+            "agent_task_completion_rating": "Incomplete",
+            "call_successful": false,
+            "in_voicemail": false,
+            "call_summary": "The user called the Mississauga Toyota service department and navigated through the automated menu to reach a service adviser. The user pressed the appropriate digits to connect with the service department but the call transcript does not provide further details on the outcome of the call.",
+            "user_sentiment": "Neutral",
+            "call_completion_rating": "Incomplete"
+        },
+        "picked_up": false
+    },
+    {
+        "call_id": "call_ece905b6aab180c27b6d9615a83",
+        "dealershipName": "Attrell Hyundai",
+        "dealershipPhone": "+19054546767",
+        "transcript": "Agent: Hi, is this Attrell \nUser: Hi \nAgent: Hyundai? I’d \nUser: there. Sorry we missed your call.\n",
+        "call_analysis": {
+            "custom_analysis_data": {
+                "earliest_availability": "",
+                "cost_oil_change": 0,
+                "hold_time": 0,
+                "information_collected": false
+            },
+            "agent_task_completion_rating": "Incomplete",
+            "call_successful": false,
+            "in_voicemail": true,
+            "call_summary": "The user apologized for missing the agent's call, indicating a potential follow-up or missed communication. The call did not progress further due to the user's brief response.",
+            "user_sentiment": "Neutral",
+            "call_completion_rating": "Incomplete"
+        },
+        "picked_up": false
+    }, 
+    {
+        "call_id": "call_a3eae1094cebaf18e538cc0df7d",
+        "dealershipName": "Zayd Dealership",
+        "dealershipPhone": "+16477108070",
+        "transcript": "Agent: Hi, is this Zayd Dealership?\nUser: Yes. Yes. It is.\nAgent: Great! I’d like to get some information about an oil change for my 2022 Honda Civic. Could you tell me the cost and the earliest available appointment?\nUser: Yeah. So the cost is gonna be about $50. Earliest appointment is gonna be January 18th after 2 PM.\nAgent: Thank you for the information! That works perfectly. Have a great day!\n",
+        "call_analysis": {
+            "custom_analysis_data": {
+                "earliest_availability": "January 18th after 2 PM",
+                "cost_oil_change": 50,
+                "hold_time": 0,
+                "information_collected": true
+            },
+            "agent_task_completion_rating": "Complete",
+            "call_successful": true,
+            "in_voicemail": false,
+            "call_summary": "The user called Zayd Dealership to inquire about the cost and availability for an oil change for their 2022 Honda Civic. The agent provided the cost of $50 and the earliest appointment on January 18th after 2 PM, which the user accepted.",
+            "user_sentiment": "Positive",
+            "call_completion_rating": "Complete"
+        },
+        "picked_up": true
+    }, 
+    {
+        "call_id": "call_3980a35d4837d670f5c14f7ad7a",
+        "dealershipName": "Attrell Toyota",
+        "dealershipPhone": "+19054562300",
+        "transcript": "Agent: Hi, is this Attrell Toyota? I’d like \nAgent: to get some information \nUser: Hello. We are not available now.\n",
+        "call_analysis": {
+            "custom_analysis_data": {
+                "earliest_availability": "N/A",
+                "cost_oil_change": 0,
+                "hold_time": 0,
+                "information_collected": false
+            },
+            "agent_task_completion_rating": "Incomplete",
+            "call_successful": false,
+            "in_voicemail": true,
+            "call_summary": "The user attempted to contact Attrell Toyota for information but was informed that they are not available at the moment.",
+            "user_sentiment": "Negative",
+            "call_completion_rating": "Incomplete"
+        },
+        "picked_up": false
+    },   
+    {
+        "call_id": "call_f5ffba5ddbba3603b9103b942a8",
+        "dealershipName": "Planet Ford",
+        "dealershipPhone": "+19058406000",
+        "transcript": "Agent: Hi, is this Planet Ford?\nUser: Hello? Hello?\n",
+        "call_analysis": {
+            "custom_analysis_data": {
+                "earliest_availability": "",
+                "cost_oil_change": 0,
+                "hold_time": 0,
+                "information_collected": false
+            },
+            "agent_task_completion_rating": "Incomplete",
+            "call_successful": false,
+            "in_voicemail": false,
+            "call_summary": "The user attempted to connect with Planet Ford but experienced issues with the call, as indicated by the repeated 'Hello?' and the pressing of a digit, likely to navigate the call system.",
+            "user_sentiment": "Negative",
+            "call_completion_rating": "Incomplete"
+        },
+        "picked_up": false
+    },
+    {
+        "call_id": "call_e1af9df0289491384732f850994",
+        "dealershipName": "Classic Honda",
+        "dealershipPhone": "+19054541434",
+        "transcript": "User: Sasha \nAgent: Hi, is this \nUser: Condo. How may I direct your call?\nAgent: Hi Sasha, I’d \nUser: Yesterday?\nAgent: like to get some information about an oil change for my 2018 Honda Civic. Could you connect me to the service department, please?\nUser: Sure. One moment, please.\nUser: Thank you for calling Classic\nUser: thank you for calling classic Honda.\nUser: Canada's \nAgent: You're \nUser: top volume Honda dealership.\nUser: We are proud to provide you with a clear honest, and transparent experience and are committed to making your visit easy and enjoyable.\nAgent: Thank you! I’ll hold for the service department.\nUser: We appreciate your call, and someone will be right with you.\nAgent: Thank you, I’ll wait.\nUser: Classic Honda is located 30 Van Kirk Drive in Brad.\nUser: This is \nAgent: Got it, thank \nUser: an\nAgent: I'm still here, waiting to speak with the service department. Thank you!\nUser: We make sure that your ownership experience is beneficial, and we customize our services to meet your expectations.\nAgent: That sounds great! I’ll continue to hold for the service department. Thank you.\nUser: Classic Honda is proud to be part of performance Auto Group, one of the top automotive groups in the country. We have a mission make car buying easy.\nAgent: Thank you for the information! I’ll keep holding for the service department.\nUser: We believe that every customer is entitled to the Same great and we are\nAgent: I appreciate the details! I’ll stay on the line for the service department. Thank you.\nUser: At Performance Auto Group, we believe in the industry leading empowerment of our employees and are passionate about innovating in our 3\nAgent: Thank you for \nUser: You can \nAgent: sharing! I’ll continue to wait \nUser: learn more about your Auto Group. Atperformancedot ca\nAgent: Thank you for the information! I’ll keep holding for the service department.\nUser: Thank you for calling Classic Honda.\nAgent: You're \nUser: Canada's top volume Honda dealership. We are proud to provide you with a clear honest, and transparent Experian and are committed to making your visit easy and enjoyable.\nAgent: It seems like I'm stuck in a loop with the automated system. I'll try calling back later. Thank you for your time!\n",
+        "call_analysis": {
+            "custom_analysis_data": {
+                "earliest_availability": "",
+                "cost_oil_change": 0,
+                "hold_time": 0,
+                "information_collected": false
+            },
+            "agent_task_completion_rating": "Incomplete",
+            "call_successful": false,
+            "in_voicemail": false,
+            "call_summary": "The user, Sasha, called to inquire about an oil change for their 2018 Honda Civic and was connected to the service department. However, the call got stuck in a loop with the automated system, leading Sasha to decide to hang up and try again later.",
+            "user_sentiment": "Negative",
+            "call_completion_rating": "Incomplete"
+        },
+        "picked_up": false
+    },
+    {
+        "call_id": "call_581772d017cba31cb3f058d4cb9",
+        "dealershipName": "OpenRoad Honda",
+        "dealershipPhone": "+19055954500",
+        "transcript": "Agent: Hi, is \nUser: In the new open road Honda in Brampton. If you know your party's extension, please enter it now. For the service department, Press 1. For sales department, Press 2 For parts department, Press 3 if you would like to speak to our on-site collision expert, please press 4. For all other inquiries, please press 0. Now a proud new member of Open Road Auto Group, we look forward to building on the same outstanding level of service that you've come to expect from the long standing staff here. Thank you once again for calling the new Open Road Honda.\nUser: If you prefer to speak with a service coordinator to book your appointment, please press 1. If you'd like to speak with a service adviser. Please press 2.\nUser: Hi. You want the service?\nAgent: Hi, yes, I’d like to get some information about an oil change for my 2022 Honda Civic. Could you tell me the cost and the earliest available appointment?\nUser: For the oil change is $1.30 plus tax.\nAgent: Thank you! Could you also let me know the earliest available appointment for the oil change?\nUser: We can do it today.\nAgent: Thank you so much for the information! I’ll plan to come in today for the oil change. Have a great day!\n",
+        "call_analysis": {
+            "custom_analysis_data": {
+                "earliest_availability": "today",
+                "cost_oil_change": 1.3,
+                "hold_time": 0,
+                "information_collected": true
+            },
+            "agent_task_completion_rating": "Complete",
+            "call_successful": true,
+            "in_voicemail": false,
+            "call_summary": "The user called the service department of Open Road Honda to inquire about the cost and availability for an oil change for their 2022 Honda Civic. The agent provided the cost of $1.30 plus tax and confirmed that the earliest appointment is available for today, leading to a successful conclusion of the call.",
+            "user_sentiment": "Positive",
+            "call_completion_rating": "Complete"
+        },
+        "picked_up": true
+    },
+    {
+        "call_id": "call_465e6ee27cf03f57a7e91226cc3",
+        "dealershipName": "Meadowvale Honda",
+        "dealershipPhone": "+18333893046",
+        "transcript": "Agent: Hi, is this Meadowvale \nUser: Call may \nAgent: Honda?\nUser: be for training and quality assurance purposes.\nUser: You have reached Meadowvale Honda.\n",
+        "call_analysis": {
+            "custom_analysis_data": {
+                "earliest_availability": "",
+                "cost_oil_change": 0,
+                "hold_time": 0,
+                "information_collected": false
+            },
+            "agent_task_completion_rating": "Complete",
+            "call_successful": true,
+            "in_voicemail": true,
+            "call_summary": "The user confirmed that they reached Meadowvale Honda and mentioned that the call may be for training and quality assurance purposes. The agent successfully identified the dealership during the call.",
+            "user_sentiment": "Neutral",
+            "call_completion_rating": "Complete"
+        },
+        "picked_up": true
+    },
+    {
+        "call_id": "call_59962ce71907c9bc7bd46c34623",
+        "dealershipName": "Ideal Honda",
+        "dealershipPhone": "+19052383480",
+        "transcript": "User: Welcome to \nAgent: Hi, is this Ideal Honda?\nUser: at Honda. We have recently moved. Our new address is 1700 Toyo Circle. Located at the northeast corner of Dixie and the 401. If you know the extension number of the person you are calling, please enter it now.\nUser: For service,\nUser: Please wait a moment.\nAgent: Sure, I'll wait.\nAgent: Hello, is someone available to assist me with a service inquiry?\nUser: Sorry. No one is available to answer the call.\nUser: To leave a message, press 1. To call the operator, press 0. To enter another extension, press star.\nUser: Calling the operator.\nUser: Please wait a \nAgent: Thank you, I'll \nUser: moment.\nUser: Dixie Toyota. How \nAgent: Sure, I'll hold.\nUser: may I help?\nAgent: Thank \nUser: Dixie Toyota. How may I direct your call?\nAgent: Thank you for your time. I'll try reaching out again later. Have a great day!\n",
+        "call_analysis": {
+            "custom_analysis_data": {
+                "earliest_availability": "",
+                "cost_oil_change": 0,
+                "hold_time": 0,
+                "information_collected": false
+            },
+            "agent_task_completion_rating": "Incomplete",
+            "call_successful": false,
+            "in_voicemail": false,
+            "call_summary": "The user attempted to reach Ideal Honda for a service inquiry but was unable to connect with anyone available to assist. After pressing options to leave a message and calling the operator, the call was ultimately disconnected without any resolution.",
+            "user_sentiment": "Negative",
+            "call_completion_rating": "Incomplete"
+        },
+        "picked_up": false
+    }
+]
